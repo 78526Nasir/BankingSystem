@@ -11,6 +11,8 @@ Simple banking system application using java.
     message. Same thing will happens when a customer withdraw amount. Create method to showing all the information 
     of a customer. Create a menu driven program in main class. Create an object oriented program to automate this problem.
 
+  # Project Functionalities
+  
   # Creating Account
   # Deposit Amount to accounts
   # Withdraw Amount from account
