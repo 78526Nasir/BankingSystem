@@ -13,9 +13,9 @@ Simple banking system application using java.
 
   # Project Functionalities
   
-  # Creating Account
-  # Deposit Amount to accounts
-  # Withdraw Amount from account
-  # Calculate Interest
-  # Check Balance
+  * Creating Account
+  * Deposit Amount to accounts
+  * Withdraw Amount from account
+  * Calculate Interest
+  * Check Balance
   
