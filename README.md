@@ -1,6 +1,7 @@
 # BankingSystem
 Simple banking system application using java.
 
+   # Project Scenario
     A customer opens an account in a bank, the customer must have an initial balance of 100$
     while opening the account, the customer can withdraw, deposit, and check  his balance any time
     he wants, the bank does not charge any fees for the 1st withdraw but for all subsequent withdrwals 
