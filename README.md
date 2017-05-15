@@ -9,7 +9,8 @@ Simple banking system application using java.
     on the amount deposited by the customer as per its interest rate. When a customer want to deposit 
     the deposited amount will be checked, if the deposited amount was negative then the system gives a error 
     message. Same thing will happens when a customer withdraw amount. Create method to showing all the information 
-    of a customer. Create a menu driven program in main class. Create an object oriented program to automate this problem.
+    of a customer. Create a menu driven program in main class. Create an object oriented program to 
+    automate this problem.
 
   # Project Functionalities
   
